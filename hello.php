@@ -1,2 +1,3 @@
-print("Hell7o")
+print("Hello")
+print("Hello2")
 ptint("true")
